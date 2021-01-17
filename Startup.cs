@@ -25,6 +25,12 @@ namespace WebAPINew
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            //cross-origin request
+            services.AddCors(options => {
+                options.AddPolicy("cors",
+                    p => p.AllowAnyOrigin().AllowAnyMethod().AllowCredentials()
+                    );
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -34,6 +40,8 @@ namespace WebAPINew
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseCors("cors");
 
             app.UseRouting();
 
