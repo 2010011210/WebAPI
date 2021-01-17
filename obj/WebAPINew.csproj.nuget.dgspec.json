@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WangCong\\githubCode\\WebAPINew\\WebAPINew.csproj": {}
+    "D:\\WangCong\\githubCode\\test\\WebAPI\\WebAPINew.csproj": {}
   },
   "projects": {
-    "D:\\WangCong\\githubCode\\WebAPINew\\WebAPINew.csproj": {
+    "D:\\WangCong\\githubCode\\test\\WebAPI\\WebAPINew.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WangCong\\githubCode\\WebAPINew\\WebAPINew.csproj",
+        "projectUniqueName": "D:\\WangCong\\githubCode\\test\\WebAPI\\WebAPINew.csproj",
         "projectName": "WebAPINew",
-        "projectPath": "D:\\WangCong\\githubCode\\WebAPINew\\WebAPINew.csproj",
+        "projectPath": "D:\\WangCong\\githubCode\\test\\WebAPI\\WebAPINew.csproj",
         "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
-        "outputPath": "D:\\WangCong\\githubCode\\WebAPINew\\obj\\",
+        "outputPath": "D:\\WangCong\\githubCode\\test\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config",

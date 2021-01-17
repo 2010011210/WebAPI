@@ -43,5 +43,13 @@ namespace WebAPINew.Controllers
             return Content(res);
         }
 
+        [HttpGet]
+        [Route("GetAge")]
+        public ActionResult GetAge()
+        {
+            string res = "Hello, Tom Wang is thirty years old";
+            return Content(res);
+        }
+
     }
 }
