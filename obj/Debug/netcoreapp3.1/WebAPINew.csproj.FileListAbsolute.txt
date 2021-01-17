@@ -27,7 +27,6 @@ D:\WangCong\githubCode\test\WebAPI\bin\Debug\netcoreapp3.1\WebAPINew.runtimeconf
 D:\WangCong\githubCode\test\WebAPI\bin\Debug\netcoreapp3.1\WebAPINew.runtimeconfig.dev.json
 D:\WangCong\githubCode\test\WebAPI\bin\Debug\netcoreapp3.1\WebAPINew.dll
 D:\WangCong\githubCode\test\WebAPI\bin\Debug\netcoreapp3.1\WebAPINew.pdb
-D:\WangCong\githubCode\test\WebAPI\obj\Debug\netcoreapp3.1\WebAPINew.csprojAssemblyReference.cache
 D:\WangCong\githubCode\test\WebAPI\obj\Debug\netcoreapp3.1\WebAPINew.AssemblyInfoInputs.cache
 D:\WangCong\githubCode\test\WebAPI\obj\Debug\netcoreapp3.1\WebAPINew.AssemblyInfo.cs
 D:\WangCong\githubCode\test\WebAPI\obj\Debug\netcoreapp3.1\WebAPINew.csproj.CoreCompileInputs.cache

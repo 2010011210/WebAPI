@@ -28,7 +28,7 @@ namespace WebAPINew
             //cross-origin request
             services.AddCors(options => {
                 options.AddPolicy("cors",
-                    p => p.AllowAnyOrigin().AllowAnyMethod().AllowCredentials()
+                    p => { p.SetIsOriginAllowed(_ => true).AllowAnyHeader().AllowAnyMethod().AllowCredentials(); }
                     );
             });
         }
